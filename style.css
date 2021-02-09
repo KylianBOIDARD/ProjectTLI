@@ -1,0 +1,14 @@
+.Titre {
+    text-align: center;
+}
+
+.form-inline my-2 my-lg-0 {
+    position: relative;
+    
+
+}
+
+.form-control mr-sm-2 {
+    text-align: center;
+    object-position: bottom;
+}
