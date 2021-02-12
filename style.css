@@ -1,14 +1,52 @@
 body{
-    background-color:rgb(17, 0, 255);
+
+    background: radial-gradient(circle, #ffffff, #cfd6d6);  
 }
 footer{
     background-color: skyblue;
 }
 
-.Titre {
+.titre {
     text-align: center;
-    font-size: 120px ;
-    font-weight: bold;
+    font-size : 100px;
+    color: #4c4c4c;    
+    font-family: sans-serif;
+    font-weight: 600;
+    padding : 0.1em;
+    border : 0.1em solid black;
+   border-radius: 100%;
+}
+.services{
+    text-align: center;
+    color:black ;
+    font-family: sans-serif;
+    font-weight: 300;
+    font-size: 40px;
+    margin-top: 80px;
+    font-style: italic;
+    
+}
+
+.bloc1{
+    position: absolute ; top: 60% ; left: 5%;
+    text-align: center;
+    font-size: 25px;
+    margin-left: 50px;
+    padding : 0.1em;
+    border : 0.1em solid black;
+    border-width: 0.1em;
+    
+}
+
+.bloc2{
+    position: absolute ; top: 60% ; left: 10%;
+    font-size: 25px;
+    padding : 0.1em;;
+    margin-left: 50%;
+    border : 0.1em solid black;
+    border-width: 0.1em;
+    
+
 }
 
 .custom1{
