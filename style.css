@@ -6,6 +6,12 @@ footer{
     background-color: skyblue;
 }
 
+.u2{
+    right: 0px;
+    text-align: right;
+    object-position: right;
+}
+
 .titre {
     text-align: center;
     font-size : 100px;
